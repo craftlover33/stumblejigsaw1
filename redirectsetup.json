@@ -5,27 +5,27 @@
    
    "moreApp": [
 		{
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
+			"Name": "LadyBug Jigsaw Puzzle",
+			"Description": "LadyBug Jigsaw Puzzle is so easy to play. Parts which are placed correctly will stick together.",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.prozzle.ladycatjigsawpuzzle",
+			"URLImage": "https://raw.githubusercontent.com/craftlover33/iconjigsaaw1/main/iconladybug.png"
+		},
+		{
+			"Name": "Toca Jigsaw Boca Life Puzzle",
+			"Description": "Toca Jigsaw Boca Life Puzzle is a simple and free jigsaw puzzle game you won’t be able to put aside.",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.prozzle.tocajigsawboca",
+			"URLImage": "https://raw.githubusercontent.com/craftlover33/iconjigsaaw1/main/icontoca.png"
+		},
+		{
+			"Name": "Blippi Jigsaw Puzzle",
+			"Description": "Dog Patrol Jigsaw Puzzle is a simple and free jigsaw puzzle game you won’t be able to put aside. It can also help you to stimulate your curiosity and recall sweet memories of paper jigsaw puzzles that you used to do with friends or parents.",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.prozzle.blippijigsawpuzzle",
 			"URLImage": ""
 		},
 		{
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
-			"URLImage": ""
-		},
-		{
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
-			"URLImage": ""
-		},
-		{
-			"Name": "",
-			"Description": "",
-			"URLPlaystore": "",
+			"Name": "Dog Patrol Jigsaw Game",
+			"Description": "Dog Patrol Jigsaw Game is a simple and free jigsaw puzzle game you won’t be able to put aside. It can also help you to stimulate your curiosity and recall sweet memories of paper jigsaw puzzles that you used to do with friends or parents.",
+			"URLPlaystore": "https://play.google.com/store/apps/details?id=com.prozzle.dogpatroljigsawpuzzle",
 			"URLImage": ""
 		},
 		{
